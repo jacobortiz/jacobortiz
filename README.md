@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jacobortiz
+- 🏫 MSCS student at SJSU
 - 👀 I’m interested in anything CS related
 - 🌱 I’m currently learning on making web apps with React
 - 💞️ I’m looking to collaborate on ...
